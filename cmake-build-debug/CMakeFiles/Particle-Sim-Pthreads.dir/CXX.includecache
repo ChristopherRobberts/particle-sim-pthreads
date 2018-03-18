@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Chris/CLionProjects/particlesim-master/src/common.cpp
+common.h
+C:/Users/Chris/CLionProjects/particlesim-master/src/common.h
+string.h
+-
+sys/time.h
+-
+cmath
+-
+windows.h
+C:/Users/Chris/CLionProjects/particlesim-master/src/windows.h
+random
+-
+
+C:/Users/Chris/CLionProjects/particlesim-master/src/common.h
+iostream
+-
+
+C:/Users/Chris/CLionProjects/particlesim-master/src/main.cpp
+common.h
+C:/Users/Chris/CLionProjects/particlesim-master/src/common.h
+pthread.h
+C:/Users/Chris/CLionProjects/particlesim-master/src/pthread.h
+
+C:/Users/Chris/CLionProjects/particlesim-master/src/pthread.cpp
+cmath
+-
+unistd.h
+-
+pthread.h
+C:/Users/Chris/CLionProjects/particlesim-master/src/pthread.h
+
+C:/Users/Chris/CLionProjects/particlesim-master/src/pthread.h
+vector
+-
+common.h
+C:/Users/Chris/CLionProjects/particlesim-master/src/common.h
+

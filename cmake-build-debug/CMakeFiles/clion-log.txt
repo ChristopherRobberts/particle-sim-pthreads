@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2017.3.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Chris\CLionProjects\particlesim-master
+src:C:/Users/Chris/CLionProjects/particlesim-master/src/common.cppC:/Users/Chris/CLionProjects/particlesim-master/src/main.cppC:/Users/Chris/CLionProjects/particlesim-master/src/pthread.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Chris/CLionProjects/particlesim-master/cmake-build-debug
